@@ -1,0 +1,8 @@
+,Modelo,Determinacion,Correlacion
+0,host_acceptance_rate vs host_response_rate,0.04056594662060309,0.20140989702743778
+1,host_acceptance_rate vs price,3.18708930603373e-05,0.005645431166911638
+2,host_acceptance_rate vs number_of_reviews,0.022421049385783598,0.14973660002078182
+3,review_scores_location vs review_scores_cleanliness,0.11415375523267646,0.33786647544951315
+4,availability_365 vs number_of_reviews,0.0037244137161634994,0.06102797486533122
+5,reviews_per_month vs review_scores_communication,0.005092474963216076,0.07136157904093825
+6,number_of_reviews vs number_of_reviews_ltm,0.4072244431323586,0.6381413974444524
